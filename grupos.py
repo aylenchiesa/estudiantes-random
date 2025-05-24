@@ -3,7 +3,7 @@ import random
 estudiantes = [
     "Abelenda Ana Paula", "Alcaràz Pikarski Nicolás Agustìn", "Arostegui Simón", "Asuad Manuel", "Azcona Matilda Lorena",
     "Benitez Juan Pablo", "Bladilo Victoria", "Britez Ignacio Tobias", "Cáceres Pared Marcelo Agustín", "Caminos Roberto Damian",
-    "Codermatz Juan Valentino", "Codutti Laura Agostina", "Correa Aylen", "Agostina", "Costantini Matias Emanuel",
+    "Codermatz Juan Valentino", "Codutti Laura Agostina", "Correa Aylen Agostina", "Costantini Matias Emanuel",
     "Diez Noelia Tatiana", "Galvez Juan", "Gauto Rosario", "Gomez Jeronimo Adolfo Javier", "Invaldi Juan Martin",
     "Kaposvari Franco", "Karatanasopuloz Julian", "Lopez Lecube Lautaro", "Maidana Lautaro Nahuel", "Meza Chiesa Aylen Giovana",
     "Meza Santiago Exequiel", "Mordka Lucas Ayén", "Mortola Jorge Homero", "Mortola Santino", "Pzocik Erwin Nahum",
